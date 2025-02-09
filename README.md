@@ -9,3 +9,4 @@ Here are the key files and folders in your Jekyll project:
   index.html: Your homepage template.
   _config.yml: Your Jekyll configuration file. This is where you'll customize your blog's settings.
   Gemfile: Lists the Ruby gems (including Jekyll) your project depends on.
+  
