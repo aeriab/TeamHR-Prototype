@@ -2,6 +2,7 @@ Expanding the Horizons of Human Biology
 
 
 Here are the key files and folders in your Jekyll project:
+
   _posts/: This is where you'll write your blog posts. They should be named in the format YYYY-MM-DD-your-post-title.md (e.g., 2024-07-26-my-first-post.md).
   _drafts/: For posts you're still working on.
   _site/: This is where Jekyll generates your website files. You generally won't edit files here directly.
