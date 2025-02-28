@@ -1,8 +1,11 @@
-Expanding the Horizons of Human Biology
-
+I am hosting this website through GitHub here:
 https://aeriab.github.io/BrendanWebsite/
 
-Here are the key files and folders in your Jekyll project:
+
+
+
+
+Here are the key files and folders in a Jekyll project:
 
   _posts/: This is where you'll write your blog posts. They should be named in the format YYYY-MM-DD-your-post-title.md (e.g., 2024-07-26-my-first-post.md).
   
