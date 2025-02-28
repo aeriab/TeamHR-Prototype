@@ -9,5 +9,13 @@
     <p>Love, Brendan Aeria</p>
 
     <h3><a href="https://aeriab.github.io/BrendanWebsite/chillmoji/gift-jam-7/index.html">Chillmoji</h3>
+  
+  <script>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', () => {
+        navigator.serviceWorker.register('/service-worker.js');
+      });
+    }
+  </script>
 </body>
 </html>
